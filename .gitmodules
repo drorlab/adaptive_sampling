@@ -1,0 +1,6 @@
+[submodule "beak"]
+	path = beak
+	url = https://github.com/Eigenstate/beak
+[submodule "vmd-python"]
+	path = vmd-python
+	url = https://github.com/Eigenstate/vmd-python
